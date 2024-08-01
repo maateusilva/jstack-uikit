@@ -6,7 +6,7 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "restricted"
   },
   "sideEffects": false,
   "main": "./dist/src/index.js",
