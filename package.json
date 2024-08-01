@@ -37,7 +37,8 @@
     "dev": "storybook dev -p 6006",
     "build": "tsup",
     "build:watch": "tsup --watch",
-    "build:storybook": "storybook build"
+    "build:storybook": "storybook build",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.0",
