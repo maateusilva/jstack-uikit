@@ -6,7 +6,8 @@
     "dist"
   ],
   "publishConfig": {
-    "access": "restricted"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
   },
   "sideEffects": false,
   "main": "./dist/src/index.js",
